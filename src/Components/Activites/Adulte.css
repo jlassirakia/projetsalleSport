@@ -1,0 +1,67 @@
+.adulte{
+    height: 30cm;
+    width: 50cm;
+    background-image: url("https://www.coach-wellness-sports.com/wp-content/uploads/2017/07/cours-collectifs-fitness-tours.jpg");
+   margin-bottom: 3cm;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin-left: 9cm;
+   border: violet;
+   border-top: black;
+  
+ 
+    }
+    
+
+    .titreAdule{
+ color: blue;
+ font-size: 2cm;
+font-style: italic;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+margin-bottom: 4cm;
+margin-left: 4cm;
+    }
+
+   
+   
+        
+     div.cardadulte{
+             height: 8cm;
+             width: 40cm;
+             margin-bottom: 1cm;       
+             margin-top: 10cm;
+             background-repeat: no-repeat ;
+             background-size: cover;
+             background-color: antiquewhite;
+                        
+         }
+
+     .imgadulte{
+         width: 20cm;
+         height: 10cm;
+        float: left;
+        margin-left: 20cm;
+        margin-top: 2cm;
+     }
+
+   .Tadulte{
+    color: darkblue;
+    font-size: 3cm;
+    font-style: italic;
+    text-align: center;
+   }
+
+h2{
+    color: darkblue;
+    font-size: 3cm;
+    font-style: italic;
+    text-align: center;
+    margin-top: 12cm;
+}
+    
+
+div.courcoll{
+    width:8cm ;
+    height:15cm ;
+}

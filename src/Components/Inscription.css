@@ -1,0 +1,67 @@
+.font{
+    background-color:rgb(31, 20, 20);
+    
+    width: 80cm;
+    height: 40cm;
+}
+
+.cardIns{
+    width: 33cm;
+    height: 28cm;
+    margin-left: 22cm;
+    background-color:rgb(233, 182, 54);
+    
+  
+}
+input{
+    width: 13cm;
+    margin-left: 1cm;
+    height: 1cm;
+}
+label{
+    margin-left: 0.5cm;
+    font-size: 0.8cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: chocolate0;
+}
+.titreIns{
+    margin-bottom:0.2cm ;
+    color:indigo;
+  text-align: center;
+  font-size: 1.3cm;
+
+}
+
+
+
+.genre{
+    width: 13cm;
+    height: 1cm;
+    margin-left: 2cm;
+}
+
+button{
+    width: 10cm;
+    height: 2cm;
+   
+    background-color: black;
+    color: goldenrod;
+    margin-top: 5cm;
+    margin-left: 8cm;
+    margin-bottom: 1cm;
+}
+.age{
+    margin-left: 2.5cm;
+}
+
+.nom{
+    margin-left: 2cm;
+}
+
+.email{
+    margin-left: 2cm;
+
+}
+
+.addd{font-size: 1cm;}

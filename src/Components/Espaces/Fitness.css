@@ -1,0 +1,54 @@
+
+.card1{
+    height: 20cm;
+    width: 40cm;
+   
+    margin-left: 14cm;
+   margin-bottom: 2cm;
+    margin-top: 1cm;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-image: url("https://www.toute-la-franchise.com/images/zoom/fitness.jpg");
+}
+
+
+
+.bgFitnes{
+    background-color: rgb(252, 208, 252);
+}
+
+
+
+
+    .logo1{
+        font-size:2cm ;
+        color:darkmagenta;
+       margin-top: 5cm;
+       margin-left: 8cm;
+       font-style: italic;
+       
+    }
+
+    .titreFitness{
+        color: goldenrod;
+        font-size: 4cm;
+        font-style: oblique;
+        text-align: center;
+    }
+    .titFet{
+        color: rgb(250, 122, 10);
+        font-style: italic;
+        text-align: center;
+        font-size: 1.5cm;
+        
+    }
+    p{
+        font-size: 1cm;
+        margin-bottom: 2cm;
+    }
+    
+    
+   
+
+
+    

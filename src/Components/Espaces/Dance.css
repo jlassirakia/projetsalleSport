@@ -1,0 +1,56 @@
+.card14{
+    height: 20cm;
+    width: 49cm;
+    margin-left: 11cm;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-image: url("https://cdn.fs.teachablecdn.com/Vb5bMoW7SLi0VByQKJ1d");
+   
+    }
+
+    .titreDance{
+                color:rgb(57, 57, 97);
+                font-size: 3cm;
+                font-style: oblique;
+                text-align: center;
+                margin-right: 1cm;
+               }
+
+    .logoDanse{
+        font-size:2cm ;
+        color:rgb(82, 6, 82);
+       margin-top: 1cm;
+       margin-left: 1cm;
+       font-style: italic;
+       text-align: center;
+       margin-bottom: 4cm;
+        }
+
+    .typedanse{
+        color: black;
+        font-size: 3cm;
+        text-align: center;
+        font-style: italic;
+        margin-bottom: 1cm;    
+              }
+
+    .userd{
+      margin-left: 4cm;
+        font-size: 39px;
+        color:rgb(60, 41, 78)  ;
+        margin-bottom: 2cm;
+        text-align: center;
+        margin-right: 6cm;
+        }
+
+
+
+        .liste{
+background-color:rgba(235, 195, 228, 0.651) ;
+
+        }
+        iframe{
+            margin-left: 26cm;
+        }
+
+       

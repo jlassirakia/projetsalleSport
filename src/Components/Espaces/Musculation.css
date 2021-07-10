@@ -1,0 +1,40 @@
+     .muscila{
+         background-color: chocolate;
+     }
+
+     .espMusc{
+         text-align: center;
+         font-size: 3cm;
+         color: darkmagenta;
+         margin-bottom: 3cm;
+     }
+
+     .titreM{
+         color: mediumblue;
+         text-align: center;
+         margin-top: 1cm;
+         font-size: 2cm;
+     }
+
+     .titreMus{
+         color: midnightblue;
+         font-size: 1.3cm;
+         margin-left: 19cm;
+     }
+
+     .logo{
+         width: 22cm;
+         height: 12cm;
+         margin-left: 20cm;
+     }
+
+     .cardMu{
+        height: 30cm;
+        width: 60cm;
+        margin-left: 11cm;
+        background-repeat: no-repeat ;
+        background-size: cover;
+        background-image: url("https://www.dr-muscu.fr/wp-content/uploads/2018/12/programme-de-musculation-homme-et-femme.jpg");
+        margin-bottom: 3cm;
+       
+        }

@@ -1,0 +1,44 @@
+
+ .imgetarif{
+     height: 5cm;
+     width: 13cm;
+     margin-left: 4cm;
+     margin-top: 0.5cm;
+ }
+
+ .titletarif{
+     color:navy;
+     font-size: 1cm;
+     font-style: italic;
+     margin-bottom: 3cm;
+
+ }
+
+ .text{
+     font-size: 29cm;
+ }
+
+ p{
+     font-size: 20px;
+     color: black;
+     margin-top: 2cm;
+ }
+
+ .Ttarif{
+     text-align: center;
+    color: black;
+     font-size: 3cm;
+     margin-top: 1cm;
+     margin-bottom: 3cm;
+     
+ }
+ .prixtarif{
+     color: black;
+ }
+
+
+ .cardTarif{
+     background-color: honeydew;
+     
+ }
+

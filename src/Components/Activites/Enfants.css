@@ -1,0 +1,60 @@
+
+
+.cardenfant{
+    height: 24cm;
+    width: 40cm;
+    background-image: url("http://www.wepostmag.com/wp-content/uploads/2020/01/83759077_183972916050123_5191113643944574976_n.png");
+    margin-top: 1cm;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin-left: 11cm;
+   border: violet;
+   border-top: black;
+  
+ 
+    }
+   
+
+    .titreEnfant{
+        color: orange;
+        font-size: 2cm;
+        font-style: italic;
+        text-align: center;
+    }
+
+   
+  
+
+        .cardenf2{
+            height: 10cm;
+            width: 40cm;
+            border: honeydew;
+            margin-top: 1cm;
+            background-repeat: no-repeat ;
+            background-size: cover;
+           background-color:cornsilk;
+            margin-left: 13cm;
+            }
+
+            
+
+.Tenfant{
+              text-align: center;
+              text-decoration: teal;
+              font-style: italic;
+              color:indigo;
+              margin-right: 14px;
+          }  
+          
+          .imgenfant{
+              width: 12cm;
+              height: 9cm;
+              float: left;
+          }
+
+p{
+    font-size: 33px;
+    color: black;
+    font-style: italic;
+    margin-left: 2cm;
+}

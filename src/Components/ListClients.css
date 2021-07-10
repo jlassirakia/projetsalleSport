@@ -1,0 +1,51 @@
+table {
+    background-color: beige;
+    
+    
+    text-align: center;
+    margin-left: 0.1cm;
+    margin-bottom: 0.4cm;
+    width: 2cm;
+  }
+
+ .eedite{
+   font-size: 1cm;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bolder;
+ }
+
+  td {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 10cm;
+    
+  }
+  
+
+
+
+
+  .Tlist{
+      color: blue;
+      font-size: 2cm;
+      margin-bottom: 1.5cm;
+      text-align: center;
+  }
+  .ident{font-size: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;}
+
+
+  .delete{
+      background-color: red;
+      width: 5cm;
+      height: 1.5cm;
+  }
+
+  .trr{
+    font-size: 1cm;
+    text-align: center;
+    color: rgb(17, 17, 107);
+  }
+  
+ 

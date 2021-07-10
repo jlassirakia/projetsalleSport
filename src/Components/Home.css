@@ -1,0 +1,26 @@
+
+.hom{
+  background-image: url("https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/0/9/9/099355db1a_112463_sport-salle-appareils.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  
+} 
+
+.salle{
+text-align: center;
+color: purple;
+font-size: 4cm;
+margin-left: 26cm;
+
+}
+
+.btHome{
+  background-color: rebeccapurple;
+  color: black;
+  width: 12cm;
+  font-size: 1cm;
+  height: 2cm;
+  margin-left: 50cm;
+  margin-top: 20cm;
+}
